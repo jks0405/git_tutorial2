@@ -1,4 +1,5 @@
 <<<<<<< HEAD
 1 line
 Second line
->>>>>>> 82ecbae (First commit from new_branch)
+3 line
+>>>>>>> Stashed changes
